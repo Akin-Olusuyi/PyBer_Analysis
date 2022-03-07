@@ -7,7 +7,9 @@ The main purpose is to analyze and summarize  the PyBer data on how the data dif
 ## Results
 
 ### Summary
-Here is the PyBer Summary DataFrame ![Summary Table](https://github.com/Akin-Olusuyi/PyBer_Analysis/blob/main/Analysis/Summary%20Table.png)
+Here is the PyBer Summary DataFrame 
+
+![Summary Table](https://github.com/Akin-Olusuyi/PyBer_Analysis/blob/main/Analysis/Summary%20Table.png)
 
 Line C
 
